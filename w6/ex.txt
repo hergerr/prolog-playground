@@ -1,0 +1,19 @@
+Dane są następujące informacje o miastach i państwach:
+
+Wrocław to miasto w Polsce.
+Warszawa to miasto w Polsce.
+Kraków to miasto w Polsce.
+Berlin to miasto w Niemczech.
+Monachium to miasto Niemczech.
+Paryż to miasto we Francji.
+Lima to miasto w Peru.
+Cusco to miasto w Peru.
+Polska to państwo w Europie.
+Niemcy to państwo w Europie.
+Francja to państwo w Europie.
+Peru to państwo w Ameryce Południowej.
+Na podstawie powyższych informacji określ:
+
+a) predykaty odpowiadające poszczególnym faktom (zgodne ze składnią języka Prolog),
+b) regułę sprawdzającą, czy dane miasto jest położone na danym kontynencie,
+c) zapytanie, wyszukujące miasta położone w Europie. 
